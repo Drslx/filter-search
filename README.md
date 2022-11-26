@@ -5,7 +5,7 @@
 2: CSS3
 3: JAVASCRIPT
 
-![](/src/images/img1.png)
-
-![](/src/images/img2.png)
+![img 1](./src/images/img1.png)
+------
+![img 2](./src/images/img2.png)
 
