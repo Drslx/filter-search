@@ -1,11 +1,11 @@
-# Projeto para buscar cards com as palavras filtradas, o projeto feito seguindo a aula do Mayk Brito no canal da Rocktseat.
+# Projeto para buscar cards com as palavras filtradas.
 
 # Tecnologias usadas
 1: HTML5
 2: CSS3
 3: JAVASCRIPT
 
-![img 1](./src/images/img1.png)
+![](/src/images/cards-preview.png)
 ------
-![img 2](./src/images/img2.png)
+
 
